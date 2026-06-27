@@ -21,7 +21,7 @@
 ### <div align="center">I'm Pasha, a full-time front-end developer ❤️</div>  
   
 
-- 👽 I am currently studying at Yandex Practicum.  
+- 👽 Yandex Practicum graduate | Junior Full-Stack Developer.  
   
 
 - 👨‍🎓 I studied Information Technology at Sevastopol State University.  
